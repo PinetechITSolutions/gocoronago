@@ -1,0 +1,34 @@
+{
+  "name": "gocoronago",
+  "version": "1.0.0",
+  "description": "Simple Browser Game",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "mocha",
+    "watch": "webpack --watch",
+    "start": "webpack-dev-server --open",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PinetechITSolutions/gocoronago.git"
+  },
+  "keywords": [
+    "browser",
+    "game",
+    "corona",
+    "game",
+    "simple",
+    "game"
+  ],
+  "author": "praveen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PinetechITSolutions/gocoronago/issues"
+  },
+  "homepage": "https://github.com/PinetechITSolutions/gocoronago#readme",
+  "devDependencies": {
+    "mocha": "^7.1.1",
+    "webpack-dev-server": "^3.10.3"
+  }
+}
