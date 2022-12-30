@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/PinetechITSolutions/gocoronago#readme",
   "devDependencies": {
-    "mocha": "^7.1.1",
+    "mocha": "^10.2.0",
     "webpack-dev-server": "^3.10.3"
   }
 }
